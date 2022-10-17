@@ -1,21 +1,18 @@
 ## [10FORWARD](https://10forward.io/)
 
-2015'ten bu yana bir meta-topluluk olarak topluluklar ve içerik oluşturup,
-geliştirici ekosistemine katkıda bulunmak, topluluğu motive etmek, farkındalık
-aşılamak ve engelleri ortadan kaldırmak için çalışıyoruz.
+2015'ten bu yana bir [meta-topluluk](https://10forward.io/services/) olarak
+topluluklar ve içerik oluşturup, geliştirici ekosistemine katkıda bulunmak,
+topluluğu motive etmek, farkındalık aşılamak ve engelleri ortadan kaldırmak
+için çalışıyoruz.
 
 
-## Meta-Topluluk Nedir?
+## Akla gelebilecek sorular:
 
-Diğer toplulukların oluşumuna ve devamlılığına destek olan, toplulukların
-birbirleriyle iletişimini arttırması, güç birliği yapmasını amaçlayan üst
-topluluklar "meta-topluluk" olarak tanımlanabilir. Bu anlamda meta-topluluk
-kavramını bir şemsiyeye benzetebiliriz.
-
-Farklı topluluk ve disiplinlerin yaşadığı lojistik eksiklikler (örneğin
-sponsorluk eksikliği, yer eksikliği, konuşmacı eksikliği, organizasyon eksikliği
-v.b.) ve bu eksikliklerin toplulukların devamlılığını tehdit etmesi gibi
-durumları ortadan kaldırmak meta-toplulukların amacıdır.
+- [Desteklenen Girişimler Hangileri?](https://10forward.io/)
+- [Meta-topluluk Nedir?](https://10forward.io/services/)
+- [Topluluk Sahiplerine Ne Sunuyorsunuz?](https://10forward.io/services/)
+- [Geliştiricilere Ne Sunuyorsunuz?](https://10forward.io/services/)
+- [Siz Kimsiniz?](https://10forward.io/about/)
 
 
 ## Misyon
@@ -32,6 +29,7 @@ liderlerinin topluluk katılımcılarının katkılarını arttırmak için çab
 gösterdiği, bilgi aktarımını ve üretimini cesaretlendirdiği ama bunun da
 üzerinde temel amacın aynı ilgi alanlarını paylaşan insanların bir araya gelmesi
 ve keyif alınmasının olduğu bir ortam oluşturmayı amaçlamaktayız.
+
 
 ## Daha Fazlası
 
